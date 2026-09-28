@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+int a = 5;
+    switch(a){
+        
+        case 4 : printf("%d", 5);
+        case 5 : printf("%d", 5);
+        case 6 : printf("%d", 6);
+    }
+}
