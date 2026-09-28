@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+    int i=1;
+    if (i+2-3){
+    printf("Hello friends");
+    }
+    else
+    printf ("main bhi hu");
+    return 0;
+}
